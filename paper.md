@@ -26,3 +26,6 @@ The results are......
 
 # Figures
 Figures go here. 
+
+# Conclusions
+This is the end of the paper. 
