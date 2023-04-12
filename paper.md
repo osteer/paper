@@ -14,3 +14,7 @@ Jones et al (1998) several studies that we are referencing now.
 
 # Simulations
 New section for simulations. 
+
+# Methodology
+Details of methodology. 
+Model detailed in Smith et al 2002. 
