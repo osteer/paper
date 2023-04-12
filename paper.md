@@ -2,8 +2,8 @@
 Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 # Author
-John Smith
-Gerard Capes
+John Smith, UoE
+Gerard Capes, UoM
 
 # Introduction
 This is the introduction to the paper. 
