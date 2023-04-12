@@ -18,3 +18,5 @@ New section for simulations.
 # Methodology
 Details of methodology. 
 Model detailed in Smith et al 2002. 
+
+Smaller particles were measured. 
