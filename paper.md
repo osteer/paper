@@ -23,3 +23,6 @@ Smaller particles were measured.
 
 # Results
 The results are......
+
+# Figures
+Figures go here. 
